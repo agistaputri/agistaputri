@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @agistaputri
 - 👀 I’m interested in Software Quality Assurance
 - 🌱 I’m currently learning automation test using Katalon and Selenium
-- 📫 How to reach me E-Mail : agistaputri20@gmail.com
+- 📫 How to reach me: agistaputri20@gmail.com
 
 
 <!---
